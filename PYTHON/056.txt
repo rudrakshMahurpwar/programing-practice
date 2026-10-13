@@ -1,0 +1,5 @@
+Need for File Handling
+1. Store data permanently, even after the program ends.
+2. Access external files LIKE .txt, .csv, .json, etc.
+3. Process large files efficiently without using much memory.
+4. Automate tasks LIKE reading configs or saving outputs.
